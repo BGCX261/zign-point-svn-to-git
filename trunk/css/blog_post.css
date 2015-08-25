@@ -1,0 +1,79 @@
+.myContent
+{
+	background-color: white;
+	font-family: lucida, arial, sans-serif;
+	font-size: 12px;
+	text-align: justify;
+	white-space: normal;
+}
+.mySubhead
+{
+	background-color: white;
+	font-family: Helvetica, Arial, 'Liberation Sans', FreeSans, sans-serif;
+	font-size: 16px;
+	font-weight:bold;
+	line-height: 1.5;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.tbl_con_style
+{
+	padding-left: 5px;
+	margin:2px auto;
+	border-collapse: collapse;
+	border:1px ridge #FF6600;
+	background:#3399CC;
+}
+.tbl_con_style th
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#FFFFFF;
+	font-weight:bold;
+	border:1px ridge #FF3300;
+	text-align:center;
+}
+.tbl_con_style td
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000000;
+	text-align:justify;
+	border:1px ridge #FF6600;
+	background:#d4e3e5;
+}
+.tbl_con_style td a
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000000;
+	text-align:justify;
+	background:#d4e3e5;
+}
+.tbl_con_style a:link, .tbl_con_style a:visited
+{
+	color:#3399CC;
+	text-decoration:none;
+}
+.tbl_con_style a:hover, .tbl_con_style a:active
+{
+	color:#FF6600;
+	text-decoration:underline;
+}
+ul li
+{
+	font-family:lucida, arial, sans-serif;
+	font-size: 13px;
+}
+ul li a
+{
+	color:#008;
+}
+ul li a:link, ul li a:visited
+{
+	text-decoration:none;
+}
+ul li a:hover, ul li a:active
+{
+	text-decoration:underline;
+}
